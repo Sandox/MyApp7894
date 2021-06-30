@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961792528781",
+    "project_id": "interview-3299c",
+    "storage_bucket": "interview-3299c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961792528781:android:f4bde8287f694bb8a9edc4",
+        "android_client_info": {
+          "package_name": "com.sandox.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961792528781-45nlne6amo12d8nbhe7bgj5bcd0578qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRvJZB5kB7Sn3aXYeQ3f74J1d6fiHX9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961792528781-45nlne6amo12d8nbhe7bgj5bcd0578qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
